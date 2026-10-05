@@ -1,0 +1,12 @@
+SONG;Yesterday;The Beatles;125;POP;English
+SONG;Bohemian Rhapsody;Queen;354;ROCK;English
+INSTRUMENTAL;Autumn Leaves;Bill Evans;310;JAZZ;piano
+INSTRUMENTAL;Strobe;Deadmau5;637;ELECTRONIC;synthesizer
+CLASSICAL;Moonlight Sonata;Daniel Barenboim;360;CLASSICAL;Beethoven;27
+CLASSICAL;Nocturne;Arthur Rubinstein;270;CLASSICAL;Chopin;9
+SONG;Broken;Nobody;-5;ROCK;English
+SONG;;Nobody;200;POP;English
+INSTRUMENTAL;Mystery;Someone;abc;JAZZ;piano
+CLASSICAL;Unfinished;Someone;300;CLASSICAL;Schubert
+SONG;Wrong Style;Someone;200;DISCO;English
+JUNK;???;;;;
